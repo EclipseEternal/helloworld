@@ -1,0 +1,12 @@
+{
+    "name": "hmouille/helloworld",
+    "type": "library",
+    "license": "CCT",
+    "authors": [
+        {
+            "name": "Hervé Mouille",
+            "email": "hm@cct-marketing.com"
+        }
+    ],
+    "require": {}
+}
