@@ -7,7 +7,5 @@
             "email": "hm@cct-marketing.com"
         }
     ],
-    "require": {},
-    "minimum-stability":"stable",
-    "version":"1.0.0"
+    "require": {}
 }
